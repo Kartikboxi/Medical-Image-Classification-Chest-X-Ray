@@ -1,8 +1,13 @@
 # Medical Image Classification – Chest X-Ray
 
 ## 📌 Overview  
-This project implements a **Convolutional Neural Network (CNN)** to classify chest X-ray images, focusing on detecting **COVID-19** and other lung conditions.  
-The workflow covers data preprocessing, model training, evaluation, and visualization.
+This project focuses on **Chest X-ray image classification** to detect **COVID-19** and other lung conditions.  
+We implemented and compared three different approaches:  
+- A **custom CNN model** built from scratch  
+- A **VGG16** model (transfer learning)  
+- A **ResNet50** model (transfer learning)  
+
+The workflow includes dataset preprocessing, model training, evaluation, and visualization of results.
 
 ---
 
@@ -61,3 +66,4 @@ Training & validation loss/accuracy plots
 Confusion matrix and classification report
 
 ROC curve (if implemented)
+

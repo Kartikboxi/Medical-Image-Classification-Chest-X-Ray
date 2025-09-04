@@ -65,5 +65,4 @@ Training & validation loss/accuracy plots
 
 Confusion matrix and classification report
 
-ROC curve (if implemented)
 
